@@ -1,0 +1,2 @@
+# ColorGame
+random pick colors 
