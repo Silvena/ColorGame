@@ -1,2 +1,2 @@
 # ColorGame
-random pick colors 
+Guess the color 
